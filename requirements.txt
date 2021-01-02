@@ -1,0 +1,4 @@
+undetected-chromedriver
+pyfiglet
+selenium
+fake-useragent
